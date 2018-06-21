@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HF3_Intent_Messenger</string>
     <string name="send">Send Message</string>
+    <string name="name_activity2">Activity 2</string>
 </resources>
