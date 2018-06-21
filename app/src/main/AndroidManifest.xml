@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ReciveMessageActivity">
+            android:name=".ReceiveMessageActivity">
         </activity>
     </application>
 
